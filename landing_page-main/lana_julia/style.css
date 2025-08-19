@@ -1,25 +1,24 @@
 header{
-    background-color: rgb(43, 92, 43);
+    background-color: rgba(192, 96, 128, 1);
     height: 250px;
 }
 
 #produtos{
-    background-color: rgb(34, 114, 77);
+    background-color: rgba(179, 53, 101, 1);
     height: 250px;
 }
 
 #parceiros{ 
-    background-color: darkolivegreen;
+    background-color ;rgba(179, 53, 101, 1);
     height: 250px;
 }
 
 #historia{
-    background-color: rgb(19, 82, 47);
+    background-color: rgba(224, 24, 101, 1);
     height: 250px;
 }
 
 #cadastro{
-    background-color: rgb(28, 99, 28);
+    background-color: rgba(207, 93, 156, 1);
     height: 250px;
 }
-
